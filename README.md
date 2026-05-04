@@ -12,7 +12,7 @@ In shared living situations, managing monthly expenses becomes difficult due to:
 - No proper tracking of total household expenses  
 - Manual calculations leading to errors  
 - Lack of transparency among roommates  
-- Difficulty in ensuring fair cost sharing  
+- Difficulty in ensuring fair cost sharing
 
 As a result, dividing expenses like rent, electricity, water, groceries, and food becomes complicated and time-consuming.
 
